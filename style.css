@@ -135,7 +135,7 @@ main{
     color: var(--white);
 }
 
-@media(min-width: 90rem){
+@media(min-width: 50rem){
    .card-img:hover{
     cursor: pointer;
    }
@@ -158,5 +158,6 @@ main{
     border: solid 2px var(--Cyan400);
    }
 }
+
 
 
