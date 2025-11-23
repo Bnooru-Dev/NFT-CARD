@@ -42,7 +42,7 @@ main{
     flex-direction: column;
     align-items: center;
 
-    max-width: 20rem;
+    max-width: 23.438rem;
     background-color: var(--card-BG);
     border-radius: 1rem;
 
@@ -158,4 +158,5 @@ main{
     border: solid 2px var(--Cyan400);
    }
 }
+
 
